@@ -1,0 +1,1 @@
+# monoplugin.js
